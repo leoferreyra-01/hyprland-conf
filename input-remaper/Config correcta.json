@@ -1,0 +1,301 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 224,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F1",
+        "name": "F1",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 155,
+                "origin_hash": "2423074ee105c4089821d7c35f5f0071"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86MonBrightnessDown",
+        "name": "FN + F1",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 225,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F2",
+        "name": "F2",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 171,
+                "origin_hash": "2423074ee105c4089821d7c35f5f0071"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86MonBrightnessUp",
+        "name": "FN + F2",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 120,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F3",
+        "name": "F3",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 140,
+                "origin_hash": "2423074ee105c4089821d7c35f5f0071"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86LaunchA",
+        "name": "FN + F3",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 204,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F4",
+        "name": "F4",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 172,
+                "origin_hash": "2423074ee105c4089821d7c35f5f0071"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86LaunchB",
+        "name": "FN + F5",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 229,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F5",
+        "name": "F5",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 144,
+                "origin_hash": "2423074ee105c4089821d7c35f5f0071"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86KbdBrightnessDown",
+        "name": "FN + F4",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 230,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F6",
+        "name": "F6",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 165,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F7",
+        "name": "F7",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 164,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F8",
+        "name": "F8",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 165,
+                "origin_hash": "2423074ee105c4089821d7c35f5f0071"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86AudioPrev",
+        "name": "FN + F7",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 164,
+                "origin_hash": "2423074ee105c4089821d7c35f5f0071"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86AudioPlay",
+        "name": "FN + F8",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 163,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F9",
+        "name": "F9",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 163,
+                "origin_hash": "2423074ee105c4089821d7c35f5f0071"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86AudioNext",
+        "name": "FN + F9",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 113,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F10",
+        "name": "F10",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 113,
+                "origin_hash": "2423074ee105c4089821d7c35f5f0071"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86AudioMute",
+        "name": "FN + F10",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 114,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F11",
+        "name": "F11",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 114,
+                "origin_hash": "2423074ee105c4089821d7c35f5f0071"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86AudioLowerVolume",
+        "name": "FN + F11",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 115,
+                "origin_hash": "1df325d4ee1732d068d56a08154bf516"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "F12",
+        "name": "F12",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 115,
+                "origin_hash": "2423074ee105c4089821d7c35f5f0071"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86AudioRaiseVolume",
+        "name": "FN + F12",
+        "mapping_type": "key_macro"
+    }
+]
